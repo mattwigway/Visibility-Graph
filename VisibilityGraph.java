@@ -58,7 +58,7 @@ public class VisibilityGraph {
         for (Coordinate from : coords) {
             for (Coordinate to : coords) {
                 // no loop edges
-                if (from.equals(to)) break;
+                if (from.equals(to)) continue;
 
                 // only increment if not loop edge
                 edges++;
