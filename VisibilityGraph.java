@@ -2,7 +2,7 @@
  * A very simple visibility graph builder
  * Copyright (C) 2012 Matt Conway.
  * This is open-source software; if you modify it or redistribute it, please
- * place a comment referring to http://github.com/mattwigway/visibilityGraph 
+ * place a comment referring to http://github.com/mattwigway/Visibility-Graph 
  * in your code.
  */
 
